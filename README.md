@@ -1,4 +1,4 @@
-## Homewroks for ml course
+## Homeworks for ml course
 
 Contains homework done for ml coures and Kaggle-in-class competition
 
